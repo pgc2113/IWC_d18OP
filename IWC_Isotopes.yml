@@ -18,4 +18,4 @@ dependencies:
  - esmpy
  - pip
  - sklearn
-prefix: /Users/cpatrickfly/opt/anaconda3/environments/
+prefix: /YOUR_FILE_PATH/
