@@ -1,0 +1,21 @@
+name: IWC_Isotopes
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+ - python
+ - pandas
+ - xarray
+ - cartopy
+ - jupyter
+ - numpy
+ - matplotlib
+ - cftime
+ - seaborn 
+ - regionmask
+ - netCDF4
+ - scipy
+ - esmpy
+ - pip
+ - sklearn
+prefix: /Users/cpatrickfly/opt/anaconda3/environments/
