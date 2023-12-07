@@ -21,7 +21,7 @@ Prediction, H. C. F. C. (2000). Met Office Hadley Centre Mean Sea Level Pressure
 
 Rayner, N. A., Parker, D. E., Horton, E. B., Folland, C. K., Alexander, L. V., Rowell, D. P., Kent, E. C., & Kaplan, A. (2003). Global analyses of sea surface temperature, sea ice, and night marine air temperature since the late nineteenth century. Journal of Geophysical Research: Atmospheres, 108(D14), 2002JD002670. https://doi.org/10.1029/2002JD002670
 
-Saji, N., & Yamagata, T. (2003). Possible impacts of Indian Ocean dipole mode events on global climate. Climate Research, 25(2), 151–169.
+Saji, N., & Yamagata, T. (2003). Possible impacts of Indian Ocean dipole mode events on global climate. Climate Research, 25(2), 151–169. https://doi.org/10.3354/cr025151
 
 Werner, M., Langebroek, P. M., Carlsen, T., Herold, M., & Lohmann, G. (2011). Stable water isotopes in the ECHAM5 general circulation model: Toward high-resolution isotope modeling on a global scale. Journal of Geophysical Research: Atmospheres, 116(D15). https://doi.org/10.1029/2011JD015681
 
