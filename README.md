@@ -25,5 +25,6 @@ Saji, N., & Yamagata, T. (2003). Possible impacts of Indian Ocean dipole mode ev
 
 Werner, M., Langebroek, P. M., Carlsen, T., Herold, M., & Lohmann, G. (2011). Stable water isotopes in the ECHAM5 general circulation model: Toward high-resolution isotope modeling on a global scale. Journal of Geophysical Research: Atmospheres, 116(D15). https://doi.org/10.1029/2011JD015681
 
+[![DOI](https://zenodo.org/badge/728345352.svg)](https://zenodo.org/doi/10.5281/zenodo.10293603)
 
 
