@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: IWC d18OP Analysis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Patrick
+    family-names: Cho
+    email: pcho@nd.edu
+    name-particle: Patrick
+    affiliation: University of Notre Dame
+    orcid: 'https://orcid.org/0000-0003-3456-4886'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10293604
+    description: >-
+      This DOI is the for the set of Jupyter Notebooks that
+      conduct the analyses between IWC and d18OP
+repository-code: 'https://github.com/pgc2113/IWC_d18OP'
+keywords:
+  - walker circulation
+  - 'stable isotopes '
+  - precipitation
+license: Apache-2.0
