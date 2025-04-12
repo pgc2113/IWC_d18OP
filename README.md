@@ -11,7 +11,7 @@ This notebook can be used to recreate Figure 2 of the manuscript.
 ### Non-Stationary Analysis
 The non-stationary analysis involves exploring the role of Pacific and Indian SSTs. This notebook can be used to recreate this figures. The differences between figures 3/5 and 6 is just the data used. 
 ### Coherence Analysis
-The coherence analysis portion of the research product includes a notebook that create the foundational figures (i.e Figure 4) for the results of the Coherence analysis using ECHAM5-wiso and iCESM-iLME. 
+The coherence analysis portion of the research product includes a notebook that create the foundational figures (i.e. Figure 4) for the results of the Coherence analysis using ECHAM5-wiso and iCESM-iLME. 
 One thing to note is that the Weighted-Wavelet Z-Transform can be quite computationally intensive. 
 ### References
 Copernicus Climate Change Service. (2023). Complete ERA5 global atmospheric reanalyis [dataset]. ECMWF. https://doi.org/10.24381/CDS.143582CF
